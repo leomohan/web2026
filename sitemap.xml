@@ -3,9 +3,6 @@
 		<loc>http://www.leomohan.net/index.html</loc>
 	</url>
 	<url>
-		<loc>http://www.leomohan.net/page5.html</loc>
-	</url>
-	<url>
 		<loc>http://www.leomohan.net/articles.html</loc>
 	</url>
 	<url>
@@ -67,5 +64,8 @@
 	</url>
 	<url>
 		<loc>http://www.leomohan.net/newreleases.html</loc>
+	</url>
+	<url>
+		<loc>http://www.leomohan.net/aboutme.html</loc>
 	</url>
 </urlset>
