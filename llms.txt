@@ -17,14 +17,14 @@ Mohan Krishnamurthy publishes online as "Leo Mohan" (site: leomohan.net) and has
 
 - AI FinOps: The Practitioner's Guide to Managing, Optimizing, and Governing AI Costs at Scale — https://www.amazon.in/dp/B0GX5LQPLW
 - The Open Source AI Blueprint — https://www.amazon.in/dp/B0GSJD8HS6
-- Secure AI Adoption: A Leadership Playbook — https://www.amazon.com/dp/B0GCPZ4HBR
+- Secure AI Adoption: A Leadership Playbook — https://www.amazon.in/dp/B0GSJ344DN
 - Open Crawl: The Hidden Engine of the Open Web — https://www.amazon.in/dp/B0GS9BCPGY
 - The AI Stack: A Seven-Layer Reference Model — https://www.amazon.in/dp/B0GSBMLJPT
-- Learning Perplexity from Perplexity — https://www.amazon.com/dp/B0FMFRVRXV
+- Learning Perplexity from Perplexity — https://www.smashwords.com/books/view/1800239
 - Google Opal for Beginners: Learn, Apply, and Benefit — https://www.smashwords.com/books/view/1893191
-- Future Crorepatis: A Child's Guide to Growing Wealth the Smart Way — https://www.amazon.com/dp/B0FDVYKHXN
+- Future Crorepatis: A Child's Guide to Growing Wealth the Smart Way — https://www.amazon.in/dp/B0FDVYKHXN
 - Visualize Secure Systems: PlantUML for Network & Security Architects — https://www.amazon.in/dp/B0FGK67B8G
-- The Motive That Was Never Spoken (fiction)
+- The Motive That Was Never Spoken (fiction) — https://www.amazon.in/dp/B0GD73XJJC
 - The Replacement Clause (fiction) — https://www.leomohan.net/the-replacement-clause.html
 - The Blank Book (fiction) — https://www.leomohan.net/the-blank-book.html
 - Cloud Network Architecture & Security: Fundamentals & Beyond — https://www.leomohan.net/cloud-network-architecture-and-security-fundamentals-and-beyond.html
