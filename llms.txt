@@ -7,7 +7,7 @@ Mohan Krishnamurthy publishes online as "Leo Mohan" (site: leomohan.net) and has
 ## Books
 
 - [All Books by Category](https://www.leomohan.net/books.html): Complete catalog — technology, fiction, business, general, humor, philosophy, spiritual, storybooks and Tamil works
-- [New Releases](https://books.leomohan.net): The latest launches
+- [New Releases & Book News](https://www.leomohan.net/newreleases.html): The latest launches, each with a full description
 - [Technology Books](https://www.leomohan.net/technology.html): Hands-on books on AI, cybersecurity, networking and cloud
 - [Fiction](https://www.leomohan.net/fiction.html): Novels and short stories
 - [Tamil Works](https://www.leomohan.net/tamil.html): Novels, short stories and non-fiction in Tamil
@@ -25,8 +25,19 @@ Mohan Krishnamurthy publishes online as "Leo Mohan" (site: leomohan.net) and has
 - Future Crorepatis: A Child's Guide to Growing Wealth the Smart Way — https://www.amazon.com/dp/B0FDVYKHXN
 - Visualize Secure Systems: PlantUML for Network & Security Architects — https://www.amazon.in/dp/B0FGK67B8G
 - The Motive That Was Never Spoken (fiction)
-- The Replacement Clause (fiction) — https://www.amazon.com/dp/B0GD2DRFM4
-- The Blank Book (fiction) — https://www.amazon.com/dp/B0GD23Y7K3
+- The Replacement Clause (fiction) — https://www.leomohan.net/the-replacement-clause.html
+- The Blank Book (fiction) — https://www.leomohan.net/the-blank-book.html
+- Cloud Network Architecture & Security: Fundamentals & Beyond — https://www.leomohan.net/cloud-network-architecture-and-security-fundamentals-and-beyond.html
+- Playing the Corporate Test Match: How to Stay in the Game and Score Big — https://www.leomohan.net/playing-the-corporate-test-match-how-to-stay-in-the-game-and-score-big.html
+- Our Man in Cyberspace (fiction) — https://www.leomohan.net/our-man-in-cyberspace.html
+- The Succession Plan (fiction) — https://www.leomohan.net/the-succession-plan.html
+- Not a Reprint (fiction) — https://www.leomohan.net/not-a-reprint.html
+- Westbound Flight (fiction, free on Kindle) — https://www.leomohan.net/westbound-flight-rerelease.html
+- We Lived as Borrowers: What Ancient Living Knew About Sustainability — https://www.leomohan.net/we-lived-as-borrowers.html
+- Portable Characters, Immovable Stories (fiction) — https://www.leomohan.net/portable-characters-immovable-stories.html
+- The Medicine for Dying (fiction) — https://www.leomohan.net/the-medicine-for-dying.html
+- The Last Ten Percent (fiction) — https://www.leomohan.net/the-last-ten-percent.html
+- No Darkroom in the Cloud (fiction) — https://www.leomohan.net/no-darkroom-in-the-cloud.html
 
 ## Where to buy
 
@@ -40,6 +51,7 @@ Mohan Krishnamurthy publishes online as "Leo Mohan" (site: leomohan.net) and has
 - [About Me](https://www.leomohan.net/aboutme.html): Biography — from a small town in Tamil Nadu to a career in IT and authorship
 - [Certifications](https://www.leomohan.net/certifications.html): IT certifications from 30+ vendors and standards bodies
 - [Articles](https://www.leomohan.net/articles.html): Essays on leadership, cybersecurity and the corporate world (published on LinkedIn)
+- [In the News](https://www.leomohan.net/news.html): Press interviews and media coverage
 - [Podcasts](https://www.leomohan.net/podcasts.html): Spotify and YouTube podcasts in English and Tamil
 - [YouTube Channel](https://www.leomohan.net/youtube.html): Playlists on technology, management and business
 

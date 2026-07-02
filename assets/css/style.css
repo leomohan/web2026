@@ -594,6 +594,103 @@ a:hover, a:focus { color: var(--tawny); text-decoration: underline; }
 
 .copyright { margin: 0; color: var(--savanna); font-size: 0.92rem; }
 
+/* ---------- book detail pages ---------- */
+.book-detail {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+.book-detail-cover img {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lift);
+  border: 1px solid var(--fur-pale);
+}
+.book-detail-body .btn { margin-top: 0.5rem; }
+.date {
+  color: var(--amber);
+  font-size: 0.92rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+@media (max-width: 760px) {
+  .book-detail { grid-template-columns: 1fr; }
+  .book-detail-cover img { max-width: 260px; margin: 0 auto; }
+}
+
+/* ---------- press / news ---------- */
+.press-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+.press-card {
+  background: var(--muzzle);
+  border: 1px solid var(--fur-pale);
+  border-top: 4px solid var(--amber);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.press-card img { width: 100%; }
+.press-card figcaption { padding: 0.9rem 1.1rem; font-weight: 600; }
+
+.pdf-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-width: 820px;
+}
+.pdf-list li {
+  padding: 0.85rem 0.25rem 0.85rem 2rem;
+  border-bottom: 1px solid var(--savanna);
+  position: relative;
+}
+.pdf-list li::before {
+  content: "\1F4C4";
+  position: absolute;
+  left: 0.25rem;
+}
+.pdf-list a { font-weight: 600; color: var(--mane); }
+.pdf-list a:hover { color: var(--amber); }
+
+/* ---------- subscribe box ---------- */
+.subscribe {
+  background: var(--fur-pale);
+  border: 1px solid var(--tawny);
+  border-radius: var(--radius);
+  padding: 2rem;
+  max-width: 620px;
+  margin: 0 auto;
+  text-align: center;
+}
+.subscribe-form {
+  display: flex;
+  gap: 0.6rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+.subscribe-form input[type="email"] {
+  flex: 1 1 260px;
+  padding: 0.65rem 1rem;
+  font: inherit;
+  color: var(--mane);
+  background: var(--muzzle);
+  border: 2px solid var(--tawny);
+  border-radius: 999px;
+}
+.subscribe-form input[type="email"]:focus {
+  outline: none;
+  border-color: var(--amber);
+}
+.subscribe-form button {
+  font: inherit;
+  cursor: pointer;
+}
+.subscribe .fine-print { font-size: 0.85rem; margin: 0.8rem 0 0; }
+
 /* ---------- motion preferences ---------- */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }
