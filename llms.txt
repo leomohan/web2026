@@ -54,6 +54,7 @@ Mohan Krishnamurthy publishes online as "Leo Mohan" (site: leomohan.net) and has
 - [In the News](https://www.leomohan.net/news.html): Press interviews and media coverage
 - [Podcasts](https://www.leomohan.net/podcasts.html): Spotify and YouTube podcasts in English and Tamil
 - [YouTube Channel](https://www.leomohan.net/youtube.html): Playlists on technology, management and business
+- [LeoMohan Labs](https://labs.leomohan.net/index.html): Free web tools — 3D book mockup generator, visual traceroute (mTrace), Candidate Dossier, Prompt2Diagram
 
 ## Social
 
