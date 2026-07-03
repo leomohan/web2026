@@ -1,0 +1,136 @@
+{
+  "free_callout": {
+    "title": "Westbound Flight",
+    "page": "westbound-flight-rerelease.html",
+    "link": "https://www.amazon.com/dp/B0721YSLNV",
+    "text": "read it from Amazon Kindle for FREE"
+  },
+  "releases": [
+    {
+      "slug": "cloud-network-architecture-and-security-fundamentals-and-beyond",
+      "title": "Cloud Network Architecture & Security: Fundamentals & Beyond",
+      "genre": "Technology",
+      "date": "March 2026",
+      "cover": "assets/images/bc-cloud-network-architecture.jpg",
+      "buy_link": "https://www.smashwords.com/books/view/1987688",
+      "buy_label": "Buy on Smashwords"
+    },
+    {
+      "slug": "playing-the-corporate-test-match-how-to-stay-in-the-game-and-score-big",
+      "title": "Playing the Corporate Test Match: How to Stay in the Game and Score Big",
+      "genre": "Business",
+      "date": "March 2026",
+      "cover": "assets/images/bc-corporate-test-match.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GSBT59PY",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "our-man-in-cyberspace",
+      "title": "Our Man in Cyberspace",
+      "genre": "Fiction",
+      "date": "January 2026",
+      "cover": "assets/images/bc-our-man-in-cyberspace.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GDL98WMZ",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "not-a-reprint",
+      "title": "Not a Reprint",
+      "genre": "Fiction",
+      "date": "January 2026",
+      "cover": "assets/images/bc-not-a-reprint.jpg",
+      "buy_link": "https://www.amazon.com/dp/B0GDQP9ZY8",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "the-succession-plan",
+      "title": "The Succession Plan",
+      "genre": "Fiction",
+      "date": "January 2026",
+      "cover": "assets/images/bc-succession-plan.jpg",
+      "buy_link": "https://www.amazon.com/dp/B0GDNCL3WS",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "westbound-flight-rerelease",
+      "title": "Westbound Flight (Re-release)",
+      "genre": "Fiction",
+      "date": "January 2026",
+      "cover": "assets/images/bc-westbound-flight.jpg",
+      "buy_link": "https://www.amazon.com/dp/B0721YSLNV",
+      "buy_label": "Read FREE on Kindle"
+    },
+    {
+      "slug": "the-blank-book",
+      "title": "The Blank Book",
+      "genre": "Fiction",
+      "date": "December 2025",
+      "cover": "assets/images/a94-816x1224.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GD23Y7K3",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "the-replacement-clause",
+      "title": "The Replacement Clause",
+      "genre": "Fiction",
+      "date": "December 2025",
+      "cover": "assets/images/a93-816x1224.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GD2DRFM4",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "we-lived-as-borrowers",
+      "title": "We Lived as Borrowers",
+      "genre": "Non-fiction",
+      "date": "December 2025",
+      "cover": "assets/images/bc-we-lived-as-borrowers.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0G9XGPQ8T",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "portable-characters-immovable-stories",
+      "title": "Portable Characters, Immovable Stories",
+      "genre": "Fiction",
+      "date": "December 2025",
+      "cover": "assets/images/bc-portable-characters.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0G9WWT9D9",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "the-medicine-for-dying",
+      "title": "The Medicine for Dying",
+      "genre": "Fiction",
+      "date": "December 2025",
+      "cover": "assets/images/bc-medicine-for-dying.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GCQ2DYQT",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "the-last-ten-percent",
+      "title": "The Last Ten Percent",
+      "genre": "Fiction",
+      "date": "December 2025",
+      "cover": "assets/images/bc-last-ten-percent.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GCP4FYW7",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "no-darkroom-in-the-cloud",
+      "title": "No Darkroom in the Cloud",
+      "genre": "Fiction",
+      "date": "December 2025",
+      "cover": "assets/images/bc-no-darkroom.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GCPZ4HBR",
+      "buy_label": "Buy on Amazon"
+    },
+    {
+      "slug": "",
+      "title": "The Motive That Was Never Spoken",
+      "genre": "Fiction",
+      "date": "",
+      "cover": "assets/images/a92-816x1224.jpg",
+      "buy_link": "https://www.amazon.in/dp/B0GD73XJJC",
+      "buy_label": "Buy on Amazon"
+    }
+  ]
+}
