@@ -595,6 +595,12 @@
     "heading_lang": null,
     "books": [
       {
+        "title": "AI FinOps",
+        "cover": "assets/images/cover-ai-finops.jpg",
+        "link": "https://www.amazon.in/dp/B0GX5LQPLW",
+        "description": ""
+      },
+      {
         "title": "",
         "cover": "assets/images/a20-596x894.jpg",
         "link": "https://www.amazon.com/dp/B0F8NJHSGC",
