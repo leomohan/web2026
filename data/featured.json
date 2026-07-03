@@ -1,0 +1,55 @@
+{
+  "hero_book": {
+    "title": "AI FinOps: The Practitioner's Guide to Managing, Optimizing, and Governing AI Costs at Scale",
+    "cover": "assets/images/a150-1256x1884.jpg",
+    "link": "https://www.amazon.in/dp/B0GX5LQPLW"
+  },
+  "recent_launches": [
+    {
+      "title": "The Open Source AI Blueprint",
+      "cover": "assets/images/a123-596x894.jpg",
+      "link": "https://www.amazon.in/dp/B0GSJD8HS6"
+    },
+    {
+      "title": "Secure AI Adoption: A Leadership Playbook",
+      "cover": "assets/images/a124-596x894.jpg",
+      "link": "https://www.amazon.in/dp/B0GSJ344DN"
+    },
+    {
+      "title": "Open Crawl: The Hidden Engine of the Open Web",
+      "cover": "assets/images/a120-596x894.jpg",
+      "link": "https://www.amazon.in/dp/B0GS9BCPGY"
+    },
+    {
+      "title": "The AI Stack: A Seven-Layer Reference Model",
+      "cover": "assets/images/a119-596x894.jpg",
+      "link": "https://www.amazon.in/dp/B0GSBMLJPT"
+    }
+  ],
+  "best_sellers": [
+    {
+      "title": "Learning Perplexity from Perplexity",
+      "cover": "assets/images/d24-400x600.jpg",
+      "link": "https://www.smashwords.com/books/view/1800239",
+      "description": "Unlock the full potential of one of the most advanced AI-powered search and research platforms available today—Perplexity. Co-authored by Mohan Krishnamurthy and Perplexity itself, this guide reveals how Perplexity works, why it’s different, and how you can harness its power for personal and professional growth."
+    },
+    {
+      "title": "Google Opal for Beginners: Learn, Apply, and Benefit",
+      "cover": "assets/images/d38-400x600.jpg",
+      "link": "https://www.smashwords.com/books/view/1893191",
+      "description": "Unlock the world of Artificial Intelligence—no coding required. This clear, accessible guide introduces Google Opal, one of the newest AI innovations from Google Labs, helping anyone—from students to retirees—use AI confidently in everyday life."
+    },
+    {
+      "title": "Future Crorepatis: A Child's Guide to Growing Wealth the Smart Way",
+      "cover": "assets/images/a43-400x600.jpg",
+      "link": "https://www.amazon.in/dp/B0FDVYKHXN",
+      "description": "What if your child could master money skills most adults don’t even understand? Future Crorepatis turns financial literacy into a thrilling adventure, empowering kids ages 10–17 to build smart money habits early through relatable stories and real-world examples."
+    },
+    {
+      "title": "Visualize Secure Systems: PlantUML for Network & Security Architects",
+      "cover": "assets/images/a48-400x600.jpg",
+      "link": "https://www.amazon.in/dp/B0FGK67B8G",
+      "description": "Unlock the power of PlantUML to diagram, design, and defend complex infrastructure. From protocol layers to secure zones, this hands-on guide gives networking and security professionals real-world examples, reusable templates, and platform-agnostic setups."
+    }
+  ]
+}

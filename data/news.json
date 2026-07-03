@@ -1,0 +1,50 @@
+{
+  "press": [
+    {
+      "title": "Do you know you have been breached?",
+      "image": "assets/images/press-breached.png"
+    },
+    {
+      "title": "Strengthening India's Cyber Resilience",
+      "image": "assets/images/press-bis-article.jpg"
+    },
+    {
+      "title": "Make in India Vendors' Impact",
+      "image": "assets/images/press-make-in-india.jpg"
+    },
+    {
+      "title": "WFH is Just a Transition Phase",
+      "image": "assets/images/press-wfh.jpg"
+    }
+  ],
+  "pdfs": [
+    {
+      "title": "Zero Trust Architecture: Redefining Network Security for Complex Digital Environments",
+      "file": "assets/docs/zero-trust-architecture.pdf"
+    },
+    {
+      "title": "Wanted: Cyber Defense Policy",
+      "file": "assets/docs/wanted-cyber-defense-policy.pdf"
+    },
+    {
+      "title": "Budget 2024 Expectations",
+      "file": "assets/docs/budget-2024-expectations.pdf"
+    },
+    {
+      "title": "Netpolean Cybersec Bulletin",
+      "file": "assets/docs/netpolean-cybersec-bulletin.pdf"
+    },
+    {
+      "title": "The Critical Role of Cybersecurity in Fortifying MSMEs Against Digital Threats",
+      "file": "assets/docs/cybersecurity-msme-growth.pdf"
+    },
+    {
+      "title": "Almoayed Group Wins Bahrain Marathon 2011",
+      "file": "assets/docs/almoayed-bahrain-marathon-2011.pdf"
+    },
+    {
+      "title": "Ever Got a Video Call from “Flipkart Support”? What Happened to Me on Raksha Bandhan",
+      "file": "assets/docs/flipkart-video-call-story.pdf"
+    }
+  ]
+}
