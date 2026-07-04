@@ -215,6 +215,15 @@ a:hover, a:focus { color: var(--tawny); text-decoration: underline; }
 }
 
 .hero-text h1 { margin-bottom: 0.5em; }
+
+.profile-photo {
+  width: 190px;
+  height: auto;
+  border-radius: var(--radius);
+  border: 3px solid var(--amber);
+  box-shadow: var(--shadow-lift);
+  margin: 0.5rem 0 1.1rem;
+}
 .hero-text h1::after {
   content: "";
   display: block;
