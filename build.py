@@ -215,6 +215,14 @@ def build_genre_pages(latest_article_url):
         ld = {"@context": "https://schema.org", "@type": "CollectionPage",
               "name": g["page_title"], "url": f"{BASE}/{genre}.html",
               "author": {"@type": "Person", "name": "Mohan Krishnamurthy"}}
+        titled = [b for b in g["books"] if b["title"]]
+        if titled:
+            ld["mainEntity"] = {"@type": "ItemList", "itemListElement": [
+                {"@type": "ListItem", "position": n + 1,
+                 "item": {"@type": "Book", "name": b["title"],
+                          "author": {"@type": "Person", "name": "Mohan Krishnamurthy"},
+                          "image": f"{BASE}/{b['cover']}", "url": b["link"]}}
+                for n, b in enumerate(titled)]}
         page(f"{genre}.html", g["page_title"], g["meta_description"], body, og, ld, latest_article_url)
 
 def teaser_of(body_html):
@@ -424,6 +432,7 @@ def build_index(latest_article_url):
         "url": f"{BASE}/",
         "jobTitle": "Author, Speaker, Trainer & Cybersecurity Professional",
         "email": "mailto:leomohan@yahoo.com",
+        "image": f"{BASE}/assets/images/mohan-krishnamurthy-profile.jpg",
         "sameAs": [
             "https://linkedin.com/in/leomohan",
             "https://www.amazon.com/author/mohankrishnamurthy",
@@ -452,6 +461,7 @@ def build_index(latest_article_url):
   <div class="container hero-grid">
     <div class="hero-text">
       <h1>Hi, I&rsquo;m Mohan.<br>Techie by Day; Storyteller by Night!</h1>
+      <img class="profile-photo" src="assets/images/mohan-krishnamurthy-profile.jpg" alt="Mohan Krishnamurthy — author, speaker and cybersecurity professional" width="400" height="520">
       <p class="lead">Mohan Krishnamurthy (Leo Mohan) is a writer, speaker, trainer, and cybersecurity professional &mdash; the author of books in English and Tamil spanning technology, fiction, business, humor, philosophy and spirituality.</p>
       <div class="btn-row">
         <a class="btn" href="https://www.linkedin.com/in/leomohan" target="_blank" rel="noopener">LinkedIn</a>
